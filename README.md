@@ -12,5 +12,5 @@ To build this project into file,
     (2) clone this repository from git ($git clone ...)
     (3) go to project dir, and make project from Makefie ($make)
 
-    The output will be: Point.uv
+    The output will be: Point
 
