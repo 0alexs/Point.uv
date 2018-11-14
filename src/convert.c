@@ -62,7 +62,6 @@ break3:
 break4:
 	}
 
-	BOOL correct;
 	c.x = 0;
 	c.y = 0;
 	if GET_POINT {
