@@ -15,3 +15,5 @@ typedef struct {
 #define BIT_CONV(x) (x && x)
 
 point get_point(coords * pos, image * img);
+
+int convert(image * ptr);
