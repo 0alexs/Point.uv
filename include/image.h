@@ -15,5 +15,10 @@ typedef struct {
 #define BIT_CONV(x) (x && x)
 
 point get_point(coords * pos, image * img);
+int set_point(coords * pos, image * img, point p);
 
 int convert(image * ptr);
+
+typedef unsigned BOOL;
+#define TRUE 1
+#define FALSE 2
